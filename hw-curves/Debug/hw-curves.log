@@ -1,0 +1,13 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  curves2.cpp
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(64,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(80,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(54,9): warning C4101: 'j': unreferenced local variable
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(101,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(218,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(219,10): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\hw-curves\curves2.cpp(222,10): warning C4018: '>=': signed/unsigned mismatch
+  hw-curves.vcxproj -> C:\Users\dhava\Downloads\hw-curves-windows_redownloaded\hw-curves-windows\hw-curves\Debug\hw-curves.exe
